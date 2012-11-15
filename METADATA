@@ -1,5 +1,5 @@
 {
-  "name": "Run With Friends",
+  "title": "Run With Friends",
   "platform_features": [
     {
       "feature_group": "graph_api"
