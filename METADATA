@@ -28,7 +28,7 @@
       "path": "screenshots/sample_web_runwithfriends_1.png"
     }
   ],
-  "tutorial": "https://developers.facebook.com/docs/samples/canvas/"
+  "tutorial": "https://developers.facebook.com/docs/samples/canvas/",
   "featured": false,
   "deprecated": false
 }
