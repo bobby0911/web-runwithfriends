@@ -1,24 +1,6 @@
-# Run with Friends
+# DEPRECATED
 
-Run with Friends is a web app that runs in Facebook.com
-
-Authors: Naitik Shah(daaku)
-
-## Demo
-
-http://apps.facebook.com/runwithfriends/
-
-## Installing
-
-See https://developers.facebook.com/docs/samples/canvas/
-
-## Documentation
-
-See http://developers.facebook.com/docs/guides/canvas/ for all Canvas docs.
-
-## Contributing
-
-All contributors must agree to and sign the [Facebook CLA](https://developers.facebook.com/opensource/cla) prior to submitting Pull Requests. We cannot accept Pull Requests until this document is signed and submitted.
+This example is out of date and will be deleted anytime after August 1, 2013.
 
 ## License
 

@@ -26,5 +26,5 @@
   ],
   "tutorial": "https://developers.facebook.com/docs/samples/canvas/",
   "featured": false,
-  "deprecated": false
+  "deprecated": true
 }
